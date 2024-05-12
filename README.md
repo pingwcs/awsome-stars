@@ -154,6 +154,8 @@
 
 ## JavaScript 
 
+- [SiriusXT/trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) - Trilium quickly jumps to the last browsing position
+- [rauenzi/Trilium-Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) - A widget to show note breadcrumbs at the bottom of the page.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt) - 永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调
@@ -215,6 +217,8 @@
 
 ## Others 
 
+- [waterovo/trilium-jsmind](https://github.com/waterovo/trilium-jsmind) - 在trilium创建jsmind思维导图
+- [madodig/trilium-widget-theme-switch](https://github.com/madodig/trilium-widget-theme-switch) - Trilium widget for changing themes
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
@@ -308,7 +312,7 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [BogiHsu/Tacotron2-PyTorch](https://github.com/BogiHsu/Tacotron2-PyTorch) - Yet another PyTorch implementation of Tacotron 2 with reduction factor and faster training speed.
 - [aijianiula0601/tacotron2_pytorch](https://github.com/aijianiula0601/tacotron2_pytorch) - make pytorch tactron2 train parallel with DataParallel
 - [fuqiuai/learning_notes](https://github.com/fuqiuai/learning_notes) - 一些个人学习笔记
