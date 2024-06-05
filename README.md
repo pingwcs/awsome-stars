@@ -37,6 +37,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## C 
@@ -56,6 +57,7 @@
 
 ## C# # 
 
+- [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
 - [cxfksword/jellyfin-plugin-metashark](https://github.com/cxfksword/jellyfin-plugin-metashark) - jellyfin电影元数据插件
@@ -76,7 +78,7 @@
 
 ## C++ 
 
-- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [moonlight-stream/moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
@@ -238,6 +240,7 @@
 
 ## Others 
 
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [waterovo/trilium-jsmind](https://github.com/waterovo/trilium-jsmind) - 在trilium创建jsmind思维导图
 - [madodig/trilium-widget-theme-switch](https://github.com/madodig/trilium-widget-theme-switch) - Trilium widget for changing themes
 - [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
@@ -364,7 +367,6 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [johnlui/PPHC](https://github.com/johnlui/PPHC) - 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet) - Cross-platform AirDrop. File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
