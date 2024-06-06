@@ -42,6 +42,7 @@
 
 ## C 
 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
 - [nginx/nginx](https://github.com/nginx/nginx) - An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to ngi
@@ -57,6 +58,9 @@
 
 ## C# # 
 
+- [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+- [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 - [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - Libre Hardware Monitor, home of the fork of Open Hardware Monitor
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
@@ -91,7 +95,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [musescore/MuseScore](https://github.com/musescore/MuseScore) - MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星：）。
+- [sherlockchou86/VideoPipe](https://github.com/sherlockchou86/VideoPipe) - 跨平台的视频结构化（视频分析）框架，觉得有帮助的请给个星星 : ) 。**VideoPipe下一版本正在开发中，在保证跨平台、易上手的前提下，预计性能直逼deepstream等各硬件平台官方框架**。
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
@@ -108,6 +112,7 @@
 
 ## Dart 
 
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -240,6 +245,7 @@
 
 ## Others 
 
+- [Wilenty/BCUninstaller](https://github.com/Wilenty/BCUninstaller) - Better installer of bulk crap unistaller from there: https://github.com/Klocman/Bulk-Crap-Uninstaller/
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [waterovo/trilium-jsmind](https://github.com/waterovo/trilium-jsmind) - 在trilium创建jsmind思维导图
 - [madodig/trilium-widget-theme-switch](https://github.com/madodig/trilium-widget-theme-switch) - Trilium widget for changing themes
