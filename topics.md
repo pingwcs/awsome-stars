@@ -1461,6 +1461,7 @@
 
 ## stable-diffusion 
 
+- [thisjam/sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - sd-webui中文提示词插件、老手新手炼丹必备
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
