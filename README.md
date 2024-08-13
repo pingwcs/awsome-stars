@@ -424,7 +424,7 @@
 
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - 提供企业级调研服务，「快速」打造「专属」问卷系统, 让调研「更轻松」
+- [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an open-source form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [rauenzi/Trilium-Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) - A widget to show note breadcrumbs at the bottom of the page.
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
@@ -491,7 +491,7 @@
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 
 ## License
