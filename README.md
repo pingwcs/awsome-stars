@@ -426,7 +426,7 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an open-source form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [rauenzi/Trilium-Breadcrumbs](https://github.com/rauenzi/Trilium-Breadcrumbs) - A widget to show note breadcrumbs at the bottom of the page.
+- [zerebos/Trilium-Breadcrumbs](https://github.com/zerebos/Trilium-Breadcrumbs) - A widget to show note breadcrumbs at the bottom of the page.
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
