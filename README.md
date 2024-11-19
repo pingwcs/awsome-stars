@@ -263,7 +263,6 @@
 - [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes) - My notes of Clean Code book
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [tnfe/TNT-Weekly](https://github.com/tnfe/TNT-Weekly) - 🙈 🙉 🙊 每周为您推荐国内外前端领域最新的优秀文章以及行业进展
-- [facert/awesome-spider](https://github.com/facert/awesome-spider) - 爬虫集合
 - [youngyangyang04/Markdown-Resume-Template](https://github.com/youngyangyang04/Markdown-Resume-Template) - BAT程序员自己的简历模板分享出来了 。技术简历追求简单明了，避免没有必要的花哨修饰，大家可以fork到自己仓库中，基于这个模板进行修改。
 - [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) - Resume template for Chinese programmers . 程序员简历模板系列。包括PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板
 - [febobo/web-interview](https://github.com/febobo/web-interview) - 语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题
