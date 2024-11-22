@@ -791,6 +791,7 @@
 ## http 
 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
@@ -799,6 +800,7 @@
 
 ## https 
 
+- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## image-processing 
@@ -1147,7 +1149,6 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 - [xianyuyimu/TVBOX-](https://github.com/xianyuyimu/TVBOX-) - 一木TVBOX自用仓库
-- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [google-gemini/cookbook](https://github.com/google-gemini/cookbook) - Examples and guides for using the Gemini API
 - [waterovo/trilium-jsmind](https://github.com/waterovo/trilium-jsmind) - 在trilium创建jsmind思维导图
 - [SiriusXT/trilium-back-to-history](https://github.com/SiriusXT/trilium-back-to-history) - Trilium quickly jumps to the last browsing position
