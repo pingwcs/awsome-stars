@@ -433,6 +433,7 @@
 
 ## TypeScript 
 
+- [QuarkGluonPlasma/nestjs-course-code](https://github.com/QuarkGluonPlasma/nestjs-course-code) - 《Nest 通关秘籍》案例代码
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
@@ -454,7 +455,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [czy0729/Bangumi](https://github.com/czy0729/Bangumi) - :electron: An unofficial https://bgm.tv ui first app client for Android and iOS, built with React Native. 一个无广告、以爱好为驱动、不以盈利为目的、专门做 ACG 的类似豆瓣的追番记录，bgm.tv 第三方客户端。为移动端重新设计，内置大量加强的网页端难以实现的功能，且提供了相当的自定义选项。
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [bbycroft/llm-viz](https://github.com/bbycroft/llm-viz) - 3D Visualization of an GPT-style LLM
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -499,6 +500,7 @@
 
 ## Vue 
 
+- [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
