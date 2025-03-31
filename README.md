@@ -433,6 +433,7 @@
 
 ## TypeScript 
 
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [QuarkGluonPlasma/nestjs-course-code](https://github.com/QuarkGluonPlasma/nestjs-course-code) - 《Nest 通关秘籍》案例代码
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
