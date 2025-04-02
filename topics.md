@@ -340,7 +340,7 @@
 
 ## chatbot 
 
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use RAG chatbot that features robust workflow and MCP tool-use capabilities. It supports a wide range of mainstream large language models (LLMs), including DeepSeek-R1, Llama 3.3
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -862,6 +862,7 @@
 
 ## javascript 
 
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
@@ -964,9 +965,10 @@
 
 ## llm 
 
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [TingsongYu/PyTorch-Tutorial-2nd](https://github.com/TingsongYu/PyTorch-Tutorial-2nd) - 《Pytorch实用教程》（第二版）无论是零基础入门，还是CV、NLP、LLM项目应用，或是进阶工程化部署落地，在这里都有。相信在本书的帮助下，读者将能够轻松掌握 PyTorch 的使用，成为一名优秀的深度学习工程师。
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use RAG chatbot that features robust workflow and MCP tool-use capabilities. It supports a wide range of mainstream large language models (LLMs), including DeepSeek-R1, Llama 3.3
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -1174,6 +1176,7 @@
 
 ## others 
 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 - [QuarkGluonPlasma/nestjs-course-code](https://github.com/QuarkGluonPlasma/nestjs-course-code) - 《Nest 通关秘籍》案例代码
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
