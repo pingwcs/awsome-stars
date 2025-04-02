@@ -180,6 +180,7 @@
 
 ## JavaScript 
 
+- [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating fine-tuning datasets for LLM
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人-协助找工作的工具
@@ -260,6 +261,7 @@
 
 ## Others 
 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs) - 
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [leeguandong/Awesome-Chinese-Stable-Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) - 中文文生图stable diffsion模型集合
@@ -317,7 +319,7 @@
 - [thisjam/sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt) - sd-webui中文提示词插件、老手新手炼丹必备
 - [shibing624/text2vec](https://github.com/shibing624/text2vec) - text2vec, text to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了Word2Vec、RankBM25、Sentence-BERT、CoSENT等文本表征、文本相似度计算模型，开箱即用。
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
-- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use RAG chatbot that features robust workflow and MCP tool-use capabilities. It supports a wide range of mainstream large language models (LLMs), including DeepSeek-R1, Llama 3.3
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [CrazyBoyM/dreambooth-for-diffusion](https://github.com/CrazyBoyM/dreambooth-for-diffusion) - 文生图大模型训练工具箱 （完整封装stable diffusion全量微调训练流程， 可训练定制自己的独特风格、人物概念，开箱即用， 含自动图像标注、权重转换、训练参数配置等）
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
