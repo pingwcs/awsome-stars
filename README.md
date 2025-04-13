@@ -287,6 +287,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [catppuccin/sumatra-pdf](https://github.com/catppuccin/sumatra-pdf) - 📄 Soothing pastel theme for Sumatra PDF
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [feixiao/learn-ffmpeg](https://github.com/feixiao/learn-ffmpeg) - 学习音视频知识，整理资料，编写技术手册。
 
 ## PHP 
@@ -381,7 +382,6 @@
 - [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [aijianiula0601/tacotron2_pytorch](https://github.com/aijianiula0601/tacotron2_pytorch) - make pytorch tactron2 train parallel with DataParallel
 - [fuqiuai/learning_notes](https://github.com/fuqiuai/learning_notes) - 一些个人学习笔记
 - [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
