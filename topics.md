@@ -185,6 +185,7 @@
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
 - [vpn](#vpn)
@@ -1717,6 +1718,11 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+
+## ui-design 
+
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## unity 
 
