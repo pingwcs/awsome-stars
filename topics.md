@@ -249,7 +249,7 @@
 
 ## analytics 
 
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - The most comprehensive, compact, and up-to-date JavaScript library to detect user's browser, OS, CPU, and device type/model. Also detect bots, apps, and more. Runs seamlessly in the browser (client-si
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
