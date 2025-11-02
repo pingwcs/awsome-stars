@@ -47,7 +47,7 @@
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [woltapp/blurhash](https://github.com/woltapp/blurhash) - A very compact representation of a placeholder for an image.
 - [aleksey-hoffman/sigma-file-manager](https://github.com/aleksey-hoffman/sigma-file-manager) - "Sigma File Manager" is a free, open-source, quickly evolving, modern file manager (explorer / browser) app for Windows and Linux.
