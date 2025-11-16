@@ -239,7 +239,7 @@
 
 ## ai-agents 
 
-- [judge0/judge0](https://github.com/judge0/judge0) - 🔥 Robust, scalable, and open-source online code execution system.
+- [judge0/judge0](https://github.com/judge0/judge0) - Robust and scalable online code execution system.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## ajax 
