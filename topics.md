@@ -276,7 +276,7 @@
 
 ## analytics 
 
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
