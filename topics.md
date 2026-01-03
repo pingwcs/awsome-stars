@@ -206,6 +206,7 @@
 - [ui-design](#ui-design)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [userscript](#userscript)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1881,6 +1882,10 @@
 ## unreal-engine 
 
 - [gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind) - 最全面的游戏开发技术图谱(Game Development Map)。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。
+
+## userscript 
+
+- [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 
 ## visualization 
 
