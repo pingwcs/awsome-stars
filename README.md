@@ -25,7 +25,6 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -116,7 +115,7 @@
 ## Dart 
 
 - [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for macOS, Windows, GNU/Linux & Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Plays & manages your music library. Looks beautiful & juicy. Available for Windows, GNU/Linux, macOS & Android.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -133,7 +132,7 @@
 - [Jinnrry/PMail](https://github.com/Jinnrry/PMail) - Private EMail Server
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [shadow1ng/fscan](https://github.com/shadow1ng/fscan) - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -217,7 +216,6 @@
 - [Okazari/Rythm.js](https://github.com/Okazari/Rythm.js) - A javascript library that makes your page dance.
 - [listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) - GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
@@ -280,6 +278,7 @@
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) - A curated list for when naming things is done right.
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search) - Official repository for Fluent Search, use to report issues or ask for a new feature
 - [xingshaocheng/architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
@@ -329,7 +328,6 @@
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
@@ -388,10 +386,6 @@
 - [fossasia/visdom](https://github.com/fossasia/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) - Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [postalserver/postal](https://github.com/postalserver/postal) - 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail
@@ -421,6 +415,7 @@
 ## Shell 
 
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 ## Svelte 
@@ -450,6 +445,7 @@
 - [zerebos/Trilium-Breadcrumbs](https://github.com/zerebos/Trilium-Breadcrumbs) - A widget to show note breadcrumbs at the bottom of the page.
 - [Mereithhh/vanblog](https://github.com/Mereithhh/vanblog) - 一款简洁实用优雅的个人博客系统
 - [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [SSShooter/mind-elixir-core](https://github.com/SSShooter/mind-elixir-core) - ⚗ Mind Elixir is a JavaScript, framework-agnostic mind map core.
