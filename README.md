@@ -294,7 +294,6 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [catppuccin/sumatra-pdf](https://github.com/catppuccin/sumatra-pdf) - 📄 Soothing pastel theme for Sumatra PDF
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
-- [feixiao/learn-ffmpeg](https://github.com/feixiao/learn-ffmpeg) - 学习音视频知识，整理资料，编写技术手册。
 
 ## PHP 
 
@@ -423,6 +422,7 @@
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- [feixiao/learn-ffmpeg](https://github.com/feixiao/learn-ffmpeg) - 学习音视频知识，整理资料，编写技术手册。
 
 ## Svelte 
 
