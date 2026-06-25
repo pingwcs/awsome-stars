@@ -1389,6 +1389,7 @@
 
 ## others 
 
+- [1nchaos/adata](https://github.com/1nchaos/adata) - 免费开源A股量化交易数据库； 专注A股，专注量化，向阳而生； 开放、纯净、持续、为Ai(爱)发电。为个人量化交易而生，保卫3000点，珍惜底部机会......【股票数据，股票行情数据，股票量化数据，股票交易数据，k线行情数据，股票概念数据，股票数据接口，行情数据接口，量化交易数据】【多数据源融合，动态设置代理，保障数据高可用性】
 - [pwstrick/daily](https://github.com/pwstrick/daily) - 一份搜集的前端面试题目清单、面试相关以及各类学习的资料（不局限于前端）
 - [redis-windows/redis-windows](https://github.com/redis-windows/redis-windows) - Redis 6.0.20 6.2.18 7.0.15  7.2.8  7.4.3  8.0.0 for Windows
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
