@@ -30,7 +30,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Svelte](#svelte)
-- [TeX](#tex)
 - [TypeScript](#typescript)
 - [VBScript](#vbscript)
 - [Vue](#vue)
@@ -191,6 +190,7 @@
 
 ## JavaScript 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [Macrohard0001/lx-ikun-music-sources](https://github.com/Macrohard0001/lx-ikun-music-sources) - LX_music & IKUN_music 音源收集
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -446,10 +446,6 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-
-## TeX 
-
-- [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 
 ## TypeScript 
 
