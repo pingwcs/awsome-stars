@@ -472,6 +472,7 @@
 
 ## chrome 
 
+- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -482,6 +483,7 @@
 
 ## chrome-extension 
 
+- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人 - 协助找工作的工具
 - [Get-Tech-Stack/TechStack](https://github.com/Get-Tech-Stack/TechStack) - The extension will display the tech stack of the Repo when the user visits a GitHub Public Repo. The user can easily get more info about the repo. 当用户访问 GitHub 公共存储库时，该扩展将显示存储库的技术栈。 用户可以更轻松地获取有关存储库的更多
@@ -516,6 +518,7 @@
 
 ## cli 
 
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi
@@ -693,6 +696,7 @@
 
 ## developer-tools 
 
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -824,6 +828,7 @@
 
 ## firefox 
 
+- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension) - AdGuard browser extension
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -1189,6 +1194,7 @@
 
 ## language 
 
+- [yomidevs/yomitan](https://github.com/yomidevs/yomitan) - Pop-up dictionary browser extension for language learning. Successor to Yomichan.
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 
 ## laravel 
@@ -1471,11 +1477,12 @@
 
 ## others 
 
+- [asbplayer/asbplayer](https://github.com/asbplayer/asbplayer) - Browser-based media player and Chrome extension for subtitle sentence mining
 - [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [pingwcs/gitea-issue-driven](https://github.com/pingwcs/gitea-issue-driven) - gitea-issue-driven development
-- [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) - A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
+- [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) - A Codex jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex 破甲提示词与测试包。
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [pingwcs/gitea-mcp](https://github.com/pingwcs/gitea-mcp) - forked from gitea/gitea-mcp
 - [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
@@ -1674,6 +1681,7 @@
 
 ## prompt-engineering 
 
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 - [blader/humanizer](https://github.com/blader/humanizer) - Agent skill that removes signs of AI-generated writing from text
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
@@ -1688,6 +1696,7 @@
 
 ## python 
 
+- [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Version-independent Codex instruction deployment with dry-run, backups, hook isolation, and recovery.
 - [GuDong2003/xianyu-auto-reply-fix](https://github.com/GuDong2003/xianyu-auto-reply-fix) - 闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台
 - [daijro/browserforge](https://github.com/daijro/browserforge) - 🎭 Intelligent browser header & fingerprint generator
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
