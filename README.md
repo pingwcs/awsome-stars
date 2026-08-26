@@ -164,7 +164,7 @@
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [raviqqe/muffet](https://github.com/raviqqe/muffet) - Fast website link checker in Go
