@@ -959,7 +959,6 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
 - [irbis-sh/zen-desktop](https://github.com/irbis-sh/zen-desktop) - Ad-blocker and privacy guard for Windows, macOS and Linux.
 - [axllent/mailpit](https://github.com/axllent/mailpit) - An email and SMTP testing tool with API for developers
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -1434,7 +1433,7 @@
 - [juspay/hyperswitch-prism](https://github.com/juspay/hyperswitch-prism) - One library | Many payment processors | Scale to multiple processors with few lines of code.
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Bun Production Process Manager with a built-in Load Balancer.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
@@ -1451,7 +1450,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -1507,7 +1506,7 @@
 - [alexan0618/zkky](https://github.com/alexan0618/zkky) - 直卡开源
 - [litwalle/Annotator-For-Chrome](https://github.com/litwalle/Annotator-For-Chrome) - Capture page screenshot, annotate with draws/comments, and send to Antigravity IDE.
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
-- [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage) - 下一代Python的web自动化过检测框架，通过一切网站检测的Firefox内核浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
+- [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage) - 下一代Python的web自动化过检测框架，AI自我调试运行，通过一切网站检测的Firefox内核浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
 - [chatgptuk/Real-US-Address-Generator](https://github.com/chatgptuk/Real-US-Address-Generator) - 
 - [gtxx3600/GPTSession2CPAandSub2API](https://github.com/gtxx3600/GPTSession2CPAandSub2API) - 
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
@@ -2272,7 +2271,7 @@
 - [ModuleArt/quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer) - 🖼️ Lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer.
 - [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring) - :love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
-- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - A node.js version management utility for Windows. Ironically written in Go.
+- [nvm-windows/nvm](https://github.com/nvm-windows/nvm) - The Node.js version manager for Windows.
 - [BCUninstaller/Bulk-Crap-Uninstaller](https://github.com/BCUninstaller/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
