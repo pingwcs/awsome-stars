@@ -1501,8 +1501,8 @@
 
 ## others 
 
+- [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 
-- [Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver) - ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine + card/CDK/PayPal/GCash flows
 - [alexan0618/zkky](https://github.com/alexan0618/zkky) - 直卡开源
 - [litwalle/Annotator-For-Chrome](https://github.com/litwalle/Annotator-For-Chrome) - Capture page screenshot, annotate with draws/comments, and send to Antigravity IDE.
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
