@@ -695,7 +695,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [mrdbourke/machine-learning-roadmap](https://github.com/mrdbourke/machine-learning-roadmap) - A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
 - [MingchaoZhu/DeepLearning](https://github.com/MingchaoZhu/DeepLearning) - Python for《Deep Learning》，该书为《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现
 
 ## deployment 
@@ -1200,7 +1200,7 @@
 
 ## jupyter-notebook 
 
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
 
 ## kotlin 
 
@@ -1812,7 +1812,7 @@
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
-- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 邱锡鹏《神经网络与深度学习：案例与实践》PyTorch 实现
+- [nndl/nndl-practice](https://github.com/nndl/nndl-practice) - 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。
 
 ## qt 
 
