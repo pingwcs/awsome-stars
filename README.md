@@ -347,7 +347,7 @@
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) - Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖）
 - [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.
-- [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台（WPF + Python）
+- [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台
 - [alexan0618/zkky](https://github.com/alexan0618/zkky) - 直卡开源
 - [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage) - 下一代Python的web自动化过检测框架，AI自我调试运行，trace日志可分析一切网页链路，通过一切网站检测的Firefox指纹浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
