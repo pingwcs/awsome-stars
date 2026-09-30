@@ -220,13 +220,12 @@
 - [Macrohard0001/lx-ikun-music-sources](https://github.com/Macrohard0001/lx-ikun-music-sources) - LX_music & IKUN_music 音源收集
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) - A powerful tool for creating datasets for LLM fine-tuning 、RAG and Eval
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
 - [lastsunday/job-hunting](https://github.com/lastsunday/job-hunting) - 职位猎人 - 协助找工作的工具
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [motdotla/dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js/Typescript/Bun Production Process Manager with a built-in Load Balancer.
@@ -360,6 +359,7 @@
 - [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) - A Codex jailbreak prompt and test pack for gpt. 针对 gpt 系列的 Codex 破甲提示词与测试包。
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [pingwcs/ctp-research](https://github.com/pingwcs/ctp-research) - Local research app repository
@@ -501,8 +501,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The web data API to search, scrape, and interact at scale. 🔥
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts) - Performant financial charts built with HTML5 canvas
 - [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis
 - [Cang-yun/Mnemo](https://github.com/Cang-yun/Mnemo) - Ebbinghaus memory planner
@@ -513,6 +512,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [QuarkGluonPlasma/nestjs-course-code](https://github.com/QuarkGluonPlasma/nestjs-course-code) - 《Nest 通关秘籍》案例代码
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller, a major upgrade to lodash.
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative  and secure data rooms with built-in analytics and custom domains.
