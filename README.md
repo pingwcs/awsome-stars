@@ -347,7 +347,6 @@
 - [Jia-Ethan/codex-keysmith](https://github.com/Jia-Ethan/codex-keysmith) - Versioned Codex instruction deployment with preview, ownership manifests, hook isolation, scenario evaluation, and recovery.
 - [2951461586/GPT-Register-Tool](https://github.com/2951461586/GPT-Register-Tool) - 面向 Windows 的 ChatGPT 账号注册、邮箱 OTP、账号管理与支付工作台
 - [alexan0618/zkky](https://github.com/alexan0618/zkky) - 直卡开源
-- [LoseNine/ruyipage](https://github.com/LoseNine/ruyipage) - 下一代Python的web自动化过检测框架，AI自我调试运行，trace日志可分析一切网页链路，通过一切网站检测的Firefox指纹浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.
 - [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) - 指纹浏览器、纯协议全自动ChatGPT FREE注册机+Codex自动接码授权、对接提链服务器
 - [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT官网接口纯协议的逆向实现，支持GPT-Image-2模型、文本模型，兼容OpenAI接口协议，在线批量生图/编辑图，号池管理，支持可编辑PPT/PSD文件逆向，支持导入CPA、sub2api号池 、支持接入Cherry  Studio、New Api 等软件
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
